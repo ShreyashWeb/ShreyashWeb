@@ -1,110 +1,120 @@
 # 👋 Hey, I'm Shreyash Tekriwal
 
-### Building at the intersection of Full Stack Development & AI.
+### CSE Student | Full Stack & ML Developer | Google Student Ambassador
 
-I'm a Computer Science student who enjoys turning ideas into working software — from full-stack applications to computer-vision and machine-learning systems.
+I turn ideas into working software — from full-stack web applications to computer-vision and AI-powered systems.
 
-I care about building things that are **useful, technically interesting, and built to solve real problems.**
+I enjoy solving real problems, experimenting with new technologies, and building projects that go beyond the basics.
 
 <p align="left">
   <a href="https://shreyash-portfolio-ku3s.onrender.com"><img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/shreyash-tekriwal-269089328"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:shreyashtekriwal1586@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/shreyash-tekriwal-269089328"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:shreyashtekriwal1586@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
 
-## ⚡ What I'm About
+## ⚡ What I Do
 
-- 🧩 **Full Stack Development** — building web applications, APIs, and end-to-end features.
-- 🤖 **Machine Learning & AI** — exploring computer vision, NLP, and AI-powered analysis.
-- 🛠️ **Engineering Mindset** — experimenting, debugging, measuring performance, and improving solutions.
-- 🌐 **Tech Community** — Google Student Ambassador · GFG Campus Mantri · Technology Lead at Pathora.
+- 💻 Build full-stack applications with React, Node.js, FastAPI, and Java.
+- 🤖 Explore machine learning, computer vision, and NLP.
+- 🛠️ Develop APIs, integrate AI capabilities, and improve application performance.
+- 🌐 Contribute to campus technology communities as a Google Student Ambassador, GFG Campus Mantri, and Technology Lead at Pathora.
 
-🎯 Currently open to opportunities in **Full Stack Development and Machine Learning**.
+📍 Lucknow, India · 🎯 Open to Full Stack Development and ML internships
 
 ---
 
-## 🚀 Projects Worth Exploring
+## 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛰️ CoAlign</h3>
+      <h3>🛰️ <a href="https://github.com/ShreyashWeb/CoAlign">CoAlign</a></h3>
       <p><b>Computer Vision · Real-Time Tracking</b></p>
-      A software-in-the-loop system for coarse alignment in Free Space Optical Communication, developed for an ISRO problem statement in Smart India Hackathon.
+      <p>A software-in-the-loop platform for coarse alignment in Free Space Optical Communication, developed for an ISRO problem statement in Smart India Hackathon.</p>
       <ul>
         <li>YOLOv8-based beacon detection</li>
         <li>Adaptive Kalman filter tracking</li>
-        <li>Live telemetry with FastAPI, WebSockets, and React</li>
+        <li>Real-time telemetry with FastAPI, WebSockets, and React</li>
       </ul>
-      <p><b>Stack:</b> Python · PyTorch · OpenCV · FastAPI · React</p>
-      <p><i>Add repository and demo links here.</i></p>
+      <p><b>Stack:</b> Python · PyTorch · YOLOv8 · OpenCV · FastAPI · React</p>
+      <a href="https://co-align-livid.vercel.app/"><b>Live Demo ↗</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>⚖️ Axiom</h3>
+      <h3>⚖️ <a href="https://github.com/ShreyashWeb/Axiom">Axiom</a></h3>
       <p><b>Responsible AI · Bias Analysis</b></p>
-      An AI-assisted auditing platform designed to examine datasets and documents for potential bias and representation disparities.
+      <p>An AI-assisted auditing platform designed to analyze datasets and documents for potential algorithmic bias and representation disparities.</p>
       <ul>
         <li>Fairness metrics and intersectional analysis</li>
-        <li>Bias mitigation with reweighing</li>
+        <li>Bias mitigation using reweighing</li>
         <li>AI-assisted explanations and recommendations</li>
       </ul>
-      <p><b>Stack:</b> React · TypeScript · FastAPI · Scikit-learn</p>
-      <p><i>Add repository and demo links here.</i></p>
+      <p><b>Stack:</b> React · TypeScript · FastAPI · Scikit-learn · Pandas</p>
+      <a href="https://axiom-35z0.onrender.com/"><b>Live Demo ↗</b></a>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3>🕵️ InternCheck</h3>
+      <h3>🕵️ <a href="https://github.com/ShreyashWeb/Intern-Check">InternCheck</a></h3>
       <p><b>Web Development · Security · Student Tools</b></p>
-      A platform that helps students evaluate internship listings through explainable risk scoring, potential red-flag detection, community reports, and a Chrome extension.
-      <br/><br/>
-      <b>Stack:</b> JavaScript · Node.js · Express.js · PostgreSQL · Chrome Extension APIs
-      <br/><br/>
-      <i>Add repository and demo links here.</i>
+      <p>A platform that helps students evaluate internship listings using explainable risk scoring, potential red-flag detection, community reports, and a Chrome extension.</p>
+      <p><b>Stack:</b> JavaScript · Node.js · Express.js · PostgreSQL · Chrome Extension APIs</p>
+      <a href="https://intern-check-six.vercel.app/"><b>Live Demo ↗</b></a>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🧰 My Toolbox
+## 🧰 Tech Stack
 
-| Area | Technologies |
-|---|---|
-| **Languages** | Java, Python, JavaScript, TypeScript, SQL |
-| **Frontend** | React, Tailwind CSS, HTML5, CSS3 |
-| **Backend** | Node.js, Express.js, Spring Boot, FastAPI, REST APIs |
-| **AI / ML** | PyTorch, YOLOv8, OpenCV, Scikit-learn, Pandas, NumPy, NLP |
-| **Databases** | MongoDB, PostgreSQL |
-| **Tools** | Git, GitHub, Docker, Postman, Google Cloud |
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,tailwind,nodejs,express,spring,fastapi,mongodb,postgres,git,github,docker,postman&perline=8" alt="Technologies and tools"/>
+</p>
+
+**AI / ML:** PyTorch · YOLOv8 · OpenCV · Scikit-learn · Pandas · NumPy · NLP
+
+**Cloud:** Google Cloud · Vercel · Render
 
 ---
 
 ## 💼 Experience
 
-- **Machine Learning Intern** — Navodita Infotech · May–June 2026
-- **Full Stack Developer Intern** — Vibgyor Advicorp Pvt. Ltd. · February–April 2026
+| Role | Organization | Period |
+|---|---|---|
+| Machine Learning Intern | Navodita Infotech | May–June 2026 |
+| Full Stack Developer Intern | Vibgyor Advicorp Pvt. Ltd. | February–April 2026 |
 
-## 🌱 Beyond the Code
+---
 
-- 🌐 **Google Student Ambassador** — promoting AI learning and campus technology initiatives.
-- 💻 **GFG Campus Mantri** — supporting coding, DSA learning, and student engagement.
-- 🤝 **Technology Lead at Pathora** — contributing to a student-driven technology and career community.
-- 🏆 **Hackathons** — participated in 10+ hackathons; CoAlign was selected in the internal round of Smart India Hackathon.
+## 🌐 Leadership & Community
+
+- **Google Student Ambassador** — Google Student Ambassadors India
+- **GFG Campus Mantri** — GeeksforGeeks
+- **Technology Lead** — Pathora, a student-driven technology and career community
+
+---
+
+## 🏆 Achievements
+
+- Selected in the internal round of Smart India Hackathon with CoAlign.
+- Participated in 10+ hackathons.
+- Google Cloud Study Jams 2025 — explored Vertex AI, Gemini, Cloud Functions, and App Engine.
+
+---
 
 ## 🎓 Education
 
-**B.Tech — Computer Science & Engineering**  
+**B.Tech in Computer Science & Engineering**  
 Shri Ramswaroop Memorial College of Engineering & Management, Lucknow  
 2024–2028 · CGPA: 7.81
 
 ---
 
 <p align="center">
-  <b>Less talking about ideas. More building, testing, and shipping.</b>
+  <b>Build. Experiment. Ship. Repeat.</b>
   <br/><br/>
-  <a href="https://shreyash-portfolio-ku3s.onrender.com">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/shreyash-tekriwal-269089328">LinkedIn</a>
+  <a href="https://github.com/ShreyashWeb?tab=repositories">Explore My Repositories</a> ·
+  <a href="https://shreyash-portfolio-ku3s.onrender.com">Visit My Portfolio</a>
 </p>
