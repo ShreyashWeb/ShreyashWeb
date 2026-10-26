@@ -1,62 +1,110 @@
-<h1 align="center">Hi, I'm Shreyash Tekriwal 👋</h1> <p align="center"> <b>Full Stack & ML Developer</b> · CSE Student · Lucknow, India<br> Google Student Ambassador · GFG Campus Mantri · Technology Lead @ Pathora </p> <p align="center"> <a href="https://www.linkedin.com/in/shreyash-tekriwal-269089328"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://shreyash-portfolio-ku3s.onrender.com"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a> <a href="mailto:shreyashtekriwal1586@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> </p>
+# 👋 Hey, I'm Shreyash Tekriwal
 
-🎯 Open to internships in Full Stack and ML roles.
+### Building at the intersection of Full Stack Development & AI.
 
-🚀 About Me
+I'm a Computer Science student who enjoys turning ideas into working software — from full-stack applications to computer-vision and machine-learning systems.
 
-I'm a B.Tech Computer Science student who builds full-stack apps and applies machine learning to real problems. I've interned in Java/Spring Boot backend development and in NLP, and I've built projects in computer vision, AI-driven analysis and security. I also run tech communities on campus.
+I care about building things that are **useful, technically interesting, and built to solve real problems.**
 
-🛠️ Featured Projects
-🛰️ CoAlign — AI Virtual Camera Tracking System
+<p align="left">
+  <a href="https://shreyash-portfolio-ku3s.onrender.com"><img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/shreyash-tekriwal-269089328"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:shreyashtekriwal1586@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-Built for ISRO problem statement SIH26169 (Smart India Hackathon). A software-in-the-loop platform for coarse alignment in Free Space Optical Communication that replaces expensive cameras and pan-tilt hardware with simulation.
+---
 
-Fine-tuned YOLOv8-nano for beacon detection, with an adaptive Kalman filter tracker and active re-acquisition after target loss.
-Profiled latency to get an 8x-14x speed-up (3.6-6.7 FPS to 21-31 FPS), meeting the 20 FPS requirement.
-Live telemetry through a FastAPI + WebSockets backend to a React dashboard.
-Stack: Python, PyTorch, YOLOv8, OpenCV, FastAPI, React, Docker
-🔗 Live Demo
-⚖️ Axiom — AI Fairness & Bias Analysis Engine
+## ⚡ What I'm About
 
-Audits datasets (CSV/Excel) and documents (PDF/DOCX/TXT) for algorithmic bias, proxy discrimination and representation disparities.
+- 🧩 **Full Stack Development** — building web applications, APIs, and end-to-end features.
+- 🤖 **Machine Learning & AI** — exploring computer vision, NLP, and AI-powered analysis.
+- 🛠️ **Engineering Mindset** — experimenting, debugging, measuring performance, and improving solutions.
+- 🌐 **Tech Community** — Google Student Ambassador · GFG Campus Mantri · Technology Lead at Pathora.
 
-Computes Disparate Impact (EEOC 80% rule), Demographic Parity, Equalized Odds and intersectional bias, with Reweighing mitigation.
-NLP bias detection across 9 categories, with checks against the EU AI Act, GDPR Article 22 and EEOC Title VII.
-Context-aware Gemini chatbot for explanations and mitigation strategies.
-Stack: React, TypeScript, FastAPI, Scikit-Learn, Pandas, Docker
-🔗 Live Demo · Source Code
-🕵️ InternCheck — Internship Scam Detection Platform
+🎯 Currently open to opportunities in **Full Stack Development and Machine Learning**.
 
-Helps students check whether an internship listing is legitimate before they apply.
+---
 
-Explainable 0-100 Reality Score from tiered red-flag rules, not a black-box guess.
-Chrome extension (Manifest V3) that scans Internshala and LinkedIn listings, with live WHOIS domain-age checks.
-Community reports, JWT and bcrypt authentication, and a client-side PDF resume skill-match analyzer.
-Stack: JavaScript, Node.js, Express, PostgreSQL, Chrome Extension
-🔗 Live Demo · Source Code
-💻 Tech Stack
-	
-Languages	Java, Python, JavaScript, TypeScript, SQL
-Frontend	React.js, Tailwind CSS, HTML5, CSS3
-Backend	Spring Boot, Node.js, Express.js, FastAPI, REST APIs, JWT
-ML / AI	PyTorch, YOLOv8, OpenCV, Scikit-Learn, Pandas, NumPy, NLP
-Databases	MongoDB, PostgreSQL, SQL
-Tools & Cloud	Git, GitHub, Docker, Postman, Vercel, Render, Google Cloud (Vertex AI)
-Core CS	Data Structures & Algorithms, OOP, DBMS, Operating Systems
-💼 Experience
-Role	Organization	Period
-Machine Learning Intern	Navodita Infotech	May 2026 - Jun 2026
-Full Stack Developer Intern	Vibgyor Advicorp Pvt. Ltd.	Feb 2026 - Apr 2026
-🌟 Leadership & Community
-Technology Lead, Pathora: a student-driven community for career and tech roadmaps (Sept 2026 - Present)
-Google Student Ambassador, Google Student Ambassadors (India): 12+ online events and activities on Gemini AI tools (May 2026 - Present)
-Campus Mantri, GeeksforGeeks: coding and DSA workshops and contests on campus (Jun 2026 - Present)
-🏆 Hackathons & Certifications
-Participated in 10+ hackathons.
-Selected in the internal round of Smart India Hackathon (SIH) with CoAlign.
-Google Cloud Study Jams 2025 (GDG On Campus): Vertex AI, Gemini, Cloud Functions, App Engine.
-🎓 Education
+## 🚀 Projects Worth Exploring
 
-B.Tech, Computer Science & Engineering (CGPA 7.81), Shri Ramswaroop Memorial College of Engineering & Management, Lucknow (2024 - 2028)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛰️ CoAlign</h3>
+      <p><b>Computer Vision · Real-Time Tracking</b></p>
+      A software-in-the-loop system for coarse alignment in Free Space Optical Communication, developed for an ISRO problem statement in Smart India Hackathon.
+      <ul>
+        <li>YOLOv8-based beacon detection</li>
+        <li>Adaptive Kalman filter tracking</li>
+        <li>Live telemetry with FastAPI, WebSockets, and React</li>
+      </ul>
+      <p><b>Stack:</b> Python · PyTorch · OpenCV · FastAPI · React</p>
+      <p><i>Add repository and demo links here.</i></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚖️ Axiom</h3>
+      <p><b>Responsible AI · Bias Analysis</b></p>
+      An AI-assisted auditing platform designed to examine datasets and documents for potential bias and representation disparities.
+      <ul>
+        <li>Fairness metrics and intersectional analysis</li>
+        <li>Bias mitigation with reweighing</li>
+        <li>AI-assisted explanations and recommendations</li>
+      </ul>
+      <p><b>Stack:</b> React · TypeScript · FastAPI · Scikit-learn</p>
+      <p><i>Add repository and demo links here.</i></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🕵️ InternCheck</h3>
+      <p><b>Web Development · Security · Student Tools</b></p>
+      A platform that helps students evaluate internship listings through explainable risk scoring, potential red-flag detection, community reports, and a Chrome extension.
+      <br/><br/>
+      <b>Stack:</b> JavaScript · Node.js · Express.js · PostgreSQL · Chrome Extension APIs
+      <br/><br/>
+      <i>Add repository and demo links here.</i>
+    </td>
+  </tr>
+</table>
 
-<p align="center"> 📫 Let's connect on <a href="https://www.linkedin.com/in/shreyash-tekriwal-269089328">LinkedIn</a> or check my <a href="https://shreyash-portfolio-ku3s.onrender.com">portfolio</a>. </p>
+---
+
+## 🧰 My Toolbox
+
+| Area | Technologies |
+|---|---|
+| **Languages** | Java, Python, JavaScript, TypeScript, SQL |
+| **Frontend** | React, Tailwind CSS, HTML5, CSS3 |
+| **Backend** | Node.js, Express.js, Spring Boot, FastAPI, REST APIs |
+| **AI / ML** | PyTorch, YOLOv8, OpenCV, Scikit-learn, Pandas, NumPy, NLP |
+| **Databases** | MongoDB, PostgreSQL |
+| **Tools** | Git, GitHub, Docker, Postman, Google Cloud |
+
+---
+
+## 💼 Experience
+
+- **Machine Learning Intern** — Navodita Infotech · May–June 2026
+- **Full Stack Developer Intern** — Vibgyor Advicorp Pvt. Ltd. · February–April 2026
+
+## 🌱 Beyond the Code
+
+- 🌐 **Google Student Ambassador** — promoting AI learning and campus technology initiatives.
+- 💻 **GFG Campus Mantri** — supporting coding, DSA learning, and student engagement.
+- 🤝 **Technology Lead at Pathora** — contributing to a student-driven technology and career community.
+- 🏆 **Hackathons** — participated in 10+ hackathons; CoAlign was selected in the internal round of Smart India Hackathon.
+
+## 🎓 Education
+
+**B.Tech — Computer Science & Engineering**  
+Shri Ramswaroop Memorial College of Engineering & Management, Lucknow  
+2024–2028 · CGPA: 7.81
+
+---
+
+<p align="center">
+  <b>Less talking about ideas. More building, testing, and shipping.</b>
+  <br/><br/>
+  <a href="https://shreyash-portfolio-ku3s.onrender.com">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/shreyash-tekriwal-269089328">LinkedIn</a>
+</p>
